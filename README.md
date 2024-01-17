@@ -1,6 +1,5 @@
 ![logo](./media/sh-banner.png)
 =========
-[![SecureHats](https://img.shields.io/badge/azureleech.svg)](https://twitter.com/dijkmanrogier)
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)</br>
 [![Good First Issues](https://img.shields.io/github/issues/securehats/azureleech/good%20first%20issue?color=important&label=good%20first%20issue&style=flat)](https://github.com/securehats/azureleech/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
